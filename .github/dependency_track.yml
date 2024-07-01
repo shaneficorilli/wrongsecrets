@@ -1,0 +1,3 @@
+- name: Upload BOM to Dependency-Track
+  uses: DependencyTrack/gh-upload-sbom@v3.0.0
+            
